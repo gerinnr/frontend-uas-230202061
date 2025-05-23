@@ -96,7 +96,7 @@
                 <td class="py-2 px-4 text-center">{{ $mhs['nama_mahasiswa'] }}</td>
                 <td class="py-2 px-4 text-center">{{ $mhs['email'] }}</td>
                 <td class="py-2 px-4 text-center">{{ $mhs['id_user'] }}</td>
-                <td class="py-2 px-4 text-center">{{ $mhs['kode_kelas'] }}</td>
+                <td class="py-2 px-4 text-center">{{ $mhs['nama_kelas'] }}</td>
                 <td class="py-2 px-4 text-center space-x-1">
                   <a href="{{ route('mahasiswa.edit', $mhs['npm']) }}" class="bg-yellow-400 text-white px-3 py-1 rounded hover:bg-yellow-500 transition">
                     <i class="fas fa-edit"></i>

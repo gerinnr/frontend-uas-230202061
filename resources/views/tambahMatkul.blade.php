@@ -43,7 +43,7 @@
     </div>
     </aside>
 
-    <!-- Main Form -->
+<!-- Main Form -->
 <main class="flex-1 flex items-center justify-center p-8 overflow-y-auto bg-white">
   <div class="w-full max-w-lg bg-white border border-gray-200 rounded-2xl shadow-lg p-8">
     <div class="mb-6 text-center">
