@@ -53,7 +53,7 @@ Panduan ini menjelaskan langkah-langkah membuat proyek frontend Laravel mengguna
 https://github.com/JiRizkyCahyusna/DBE_Simon
 ```
 2. Buka phpMyAdmin dari menu Laragon, kemudian klik database
-3. Buat database baru, misalnya: sinilai2
+3. Buat database baru, misalnya: db_uas_nim
 4. Klik tab Import, lalu pilih file .sql dari backend-mu
 5. Klik Go untuk import
 ---
