@@ -64,13 +64,13 @@ https://github.com/JiRizkyCahyusna/DBE_Simon
 
 1. Buka **Laragon**
 2. Klik kanan icon tray → **Quick app** → **Laravel**
-3. Masukkan nama project, contoh: `FEsinilai`
-4. Tunggu hingga proses selesai, Laragon akan membuat folder di `C:\laragon\www\FEsinilai`
+3. Masukkan nama project, contoh: `frontend-uas-nim`
+4. Tunggu hingga proses selesai, Laragon akan membuat folder di `C:\laragon\www\frontend-uas-nim`
 
 ### 2. Masuk ke Folder Project
 
 ```bash
-cd C:\laragon\www\FEsinilai
+cd C:\laragon\www\frontend-uas-nim
 ```
 
 ### 3. Salin & Edit File `.env`
@@ -85,7 +85,7 @@ Ubah konfigurasi database agar sesuai dengan database backend teman:
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=sinilai2
+DB_DATABASE=db_uas_nim
 DB_USERNAME=root
 DB_PASSWORD=
 ```
